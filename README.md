@@ -2,23 +2,7 @@
 
 ## About Me
 
-I'm a passionate technologist with extensive experience as a Full Stack Developer and Project Manager. I have a knack for building robust and scalable applications, managing projects efficiently, and leading teams to success. With a deep understanding of both front-end and back-end technologies, I strive to create seamless and innovative solutions.
-
-## Skills
-
-- **Languages:** JavaScript, Python, Java, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Docker, Jenkins, AWS, Azure
-- **Methodologies:** Agile, Scrum, DevOps
-
-## GitHub Achievements
-
-- **Arctic Code Vault Contributor:** Contributed to open source projects that were included in the GitHub Arctic Vault.
-- **First Pull Request Merged:** Successfully got my first pull request merged.
-- **Contributor to Popular Repositories:** Contributed to repositories with a significant number of stars and forks.
-- **Open Source Enthusiast:** Actively contributing to various open source projects and communities.
-
+I'm a passionate technologist with extensive experience as a Full Stack Developer.
 
 
 ## Connect with Me
