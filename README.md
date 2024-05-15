@@ -16,25 +16,21 @@ I'm a passionate technologist with extensive experience as a Full Stack Develope
 
 ## Portfolio
 
-### Project Highlights
 
-- **[Project A](https://github.com/mtechraw/project-a):** Developed a scalable e-commerce platform using React, Node.js, and MongoDB.
-- **[Project B](https://github.com/mtechraw/project-b):** Led a team of developers to create a comprehensive project management tool, enhancing productivity and collaboration.
-- **[Project C](https://github.com/mtechraw/project-c):** Designed and implemented a responsive portfolio website to showcase creative work and technical skills.
 
 ## Connect with Me
 
-- **Email:** [mukesh.rawat@example.com](mailto:mukesh.rawat@example.com)
-- **LinkedIn:** [linkedin.com/in/mukesh-rawat](https://www.linkedin.com/in/mukesh-rawat)
+- **Email:** [mukeshrawat68@gmail.com](mailto:mukeshrawat68@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mukesh-rawat](https://www.linkedin.com/in/mukesh-rawat/)
 - **GitHub:** [github.com/mtechraw](https://github.com/mtechraw)
 
-## GitHub Stats
+<!--## GitHub Stats
 
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtechraw&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtechraw&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtechraw&layout=compact&theme=radical) -->
 
 <!--
 **mtechraw/mtechraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
