@@ -1,7 +1,5 @@
 # Hi there, I'm Mukesh Rawat 👋
 
-![Profile views](https://gpvc.arturio.dev/mtechraw)
-
 ## About Me
 
 I'm a passionate technologist with extensive experience as a Full Stack Developer and Project Manager. I have a knack for building robust and scalable applications, managing projects efficiently, and leading teams to success. With a deep understanding of both front-end and back-end technologies, I strive to create seamless and innovative solutions.
