@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mukesh Rawat — Full-Stack Developer" width="100%"/>
+<img src="assets/header.svg" alt="Mukesh Rawat — AI Engineer & Full-Stack Developer" width="100%"/>
 
 <br/>
 
@@ -12,18 +12,49 @@
 
 ## `$ cat about.md`
 
-Full-stack developer who lives at the intersection of **code, conversion, and performance**. I build systems that talk (voice AI agents), sites that fly (Core Web Vitals surgery), and tracking that survives 2026 privacy rules (server-side tagging, Consent Mode, CAPI).
+Full-stack developer gone deep on **applied AI**. I ship production voice agents, LLM vision pipelines, and the boring-but-critical plumbing around them — plus sites that fly (Core Web Vitals surgery) and tracking that survives 2026 privacy rules.
 
 ```yaml
 mukesh:
-  role: Full-Stack Developer & Independent Consultant
-  focus:
-    - Voice AI agents (Retell, Vapi) — outbound sales & support bots for real clients
+  role: AI Engineer · Full-Stack Developer · Independent Consultant
+  ai_work:
+    - Voice AI agents (Retell, Vapi) — outbound sales & support bots in production for real clients
+    - LLM vision pipelines — GPT-4o OCR that turns messy food labels into clean MongoDB documents
+    - Agent design — system prompts, call flows, tool/function calling, guardrails, failure handling
+    - MCP integrations — wiring LLMs into live business data (analytics, CRMs, APIs)
+  also:
     - Web performance — LCP/INP/CLS audits, Nuxt/Vue optimization, GTM diet plans
-    - MarTech engineering — Google Consent Mode v2, TCF 2.2 CMPs, Meta/social CAPI
+    - MarTech engineering — Consent Mode v2, TCF 2.2 CMPs, Meta/social CAPI
     - Backend — PHP/Laravel, Node.js, Python, MongoDB, Redis/KeyDB
   currently: shipping client work + building in public
-  fun_fact: "I can tell you why your hero banner is killing your LCP in one PageSpeed run"
+  fun_fact: "My agents have talked to more prospects this month than most sales teams"
+```
+
+## `$ ./run --stack=ai`
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API%20·%20GPT--4o-0b0f17?style=for-the-badge&logo=openai&logoColor=00e5ff)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-0b0f17?style=for-the-badge&logo=anthropic&logoColor=ff9100)
+![Vision](https://img.shields.io/badge/LLM%20Vision%20%2F%20OCR-0b0f17?style=for-the-badge&logo=googlelens&logoColor=7c4dff)
+![Retell](https://img.shields.io/badge/Retell%20AI-0b0f17?style=for-the-badge&logo=googleassistant&logoColor=27c93f)
+![Vapi](https://img.shields.io/badge/Vapi-0b0f17?style=for-the-badge&logo=phonepe&logoColor=00e5ff)
+
+![Agents](https://img.shields.io/badge/AI%20Agents%20%2B%20Tool%20Calling-0b0f17?style=for-the-badge&logo=robotframework&logoColor=ff9100)
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-0b0f17?style=for-the-badge&logo=bookstack&logoColor=27c93f)
+![STT/TTS](https://img.shields.io/badge/STT%20%2F%20TTS%20Pipelines-0b0f17?style=for-the-badge&logo=airplayaudio&logoColor=7c4dff)
+![MCP](https://img.shields.io/badge/MCP%20Integrations-0b0f17?style=for-the-badge&logo=plug&logoColor=00e5ff)
+
+</div>
+
+```text
+┌─ ai-lab ────────────────────────────────────────────────────────────┐
+│ ▸ voice-agents/      outbound sales & support bots · live traffic   │
+│ ▸ vision-ocr/        GPT-4o label scanner · MongoDB · Azure OAuth   │
+│ ▸ agent-tooling/     function calling · guardrails · evals          │
+│ ▸ llm-integrations/  MCP servers · analytics · CRM pipelines        │
+│   (client work — private repos)                          [██████░░] │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ## `$ ls ./featured --sort=stars`
@@ -60,8 +91,6 @@ Google **Consent Mode v2** implementation for GTM — the privacy-compliance pie
 ![Redis](https://img.shields.io/badge/Redis%20%2F%20KeyDB-0b0f17?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-0b0f17?style=for-the-badge&logo=googletagmanager&logoColor=246FDB)
 ![Azure](https://img.shields.io/badge/Azure%20OAuth-0b0f17?style=for-the-badge&logo=icloud&logoColor=0089D6)
-![OpenAI](https://img.shields.io/badge/LLM%20%2F%20Vision%20APIs-0b0f17?style=for-the-badge&logo=openai&logoColor=00e5ff)
-![Voice AI](https://img.shields.io/badge/Voice%20AI%20·%20Retell%20·%20Vapi-0b0f17?style=for-the-badge&logo=googleassistant&logoColor=ff9100)
 
 </div>
 
@@ -80,7 +109,7 @@ Google **Consent Mode v2** implementation for GTM — the privacy-compliance pie
 
 Fastest routes in: 📧 [mukeshrawat68@gmail.com](mailto:mukeshrawat68@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mukesh-rawat/)
 
-Open to: voice AI builds · performance audits · tracking/consent implementations · interesting backend problems.
+Open to: voice AI builds · LLM/vision pipelines · performance audits · tracking & consent implementations.
 
 <div align="center">
 
